@@ -1,12 +1,12 @@
 {
-  "versionCode": 28,
+  "versionCode": 30,
   "latestVersion": "1.1.1",
   "apkUrl": "https://github.com/kumarsparsh695-ui/ezworkspace-updates/releases/download/v1.1.1/ezworkspace-v1.1.1.apk",
   "releaseNotes": [
-    "Instant in-app notifications and direct GitHub updates"
+    "In-app updates and instant notifications"
   ],
   "forceUpdate": false,
   "minimumSupportedVersionCode": 1,
   "published": true,
-  "publishedAt": "2026-10-12T07:00:53.814Z"
+  "publishedAt": "2026-10-12T07:11:44.112Z"
 }
