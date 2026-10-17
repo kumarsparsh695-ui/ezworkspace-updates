@@ -1,12 +1,12 @@
 {
-  "versionCode": 69,
-  "latestVersion": "1.1.1",
-  "apkUrl": "https://github.com/kumarsparsh695-ui/ezworkspace-updates/releases/download/v1.1.1/ezworkspace-v1.1.1.apk",
+  "versionCode": 70,
+  "latestVersion": "1.1.2",
+  "apkUrl": "https://github.com/kumarsparsh695-ui/ezworkspace-updates/releases/download/v1.1.2/ezworkspace-v1.1.2.apk",
   "releaseNotes": [
     "Ui update and fix bugs"
   ],
   "forceUpdate": false,
   "minimumSupportedVersionCode": 1,
   "published": true,
-  "publishedAt": "2026-10-17T20:45:56.009Z"
+  "publishedAt": "2026-10-17T20:51:16.651Z"
 }
